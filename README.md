@@ -19,6 +19,8 @@ The idea of DIY Adulting came from the thought that as young adults there is no 
 The project will initially not contain any javascript, but can be added later if considered necesary.
 
 ## Screenshots
+![Mission](./webpage-images/Mission.jpg)
+![Team](./webpage-images/Team.jpg)
 
 ## Technologies
 * HTML 5
