@@ -147,10 +147,6 @@ footer {
   background-color: #3bd4c1AA;
 }
 
-footer .content-container {
-  justify-content: flex-start;
-}
-
 footer #copyright {
   margin: 0;
   padding: 20px;
@@ -177,5 +173,9 @@ footer #copyright {
 
   footer {
     font-size: larger;
+  }
+  
+  footer .content-container {
+    justify-content: flex-start;
   }
 }
