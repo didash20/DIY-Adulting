@@ -16,7 +16,7 @@ body {
   top: -1px;
   left: 0;
   right: 0;
-  height: 110%;
+  bottom: -100px;
   z-index: -1;
   background-color: #c9d1d1;
   background-image: url(../images/trans-white-dots.png);
