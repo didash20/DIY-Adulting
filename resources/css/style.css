@@ -136,6 +136,7 @@ section .content-container .content {
   max-width: 400px;
   flex-basis: 300px;
   background-color: #3bd4c1AA;
+  justify-content: center;
   text-align: center;
   color: beige;
   font-size: 1.2rem;
@@ -174,7 +175,7 @@ footer #copyright {
   footer {
     font-size: larger;
   }
-  
+
   footer .content-container {
     justify-content: flex-start;
   }
